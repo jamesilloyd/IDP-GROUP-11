@@ -1,5 +1,7 @@
 # IDP-GROUP-11
 
+A link to the task can be found here https://jaehughes.github.io/IDPDocs/.
+
 The robot.cpp and robot.h files define the robot class and the void loop used by the arduino in the competition.
 
 The main.py and main-camera.py files were planned to be used to navigate the robot using the camera,
